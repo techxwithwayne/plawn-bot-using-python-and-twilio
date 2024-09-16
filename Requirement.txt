@@ -1,0 +1,13 @@
+pip install twilio
+
+
+"""
+Software and Tools
+VisualStudio Code (Text Editor)
+PostgreSQL (Database)
+pgAdmin (Database GUI)
+Python version 3 ++
+Windows (OS)
+"""
+pip install twilio
+use ngrok to setup a tunnel to access the sytem
